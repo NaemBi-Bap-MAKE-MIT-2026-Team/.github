@@ -1,6 +1,6 @@
 # Bless You Polar Bear - Award at MakeMIT Hackathon 2026, InfoSys Sustainability 3rd 
 
-![Awards at MakeMIT x Harvard 2026 Hackathon](profile/image.png)
+![Awards at MakeMIT x Harvard 2026 Hackathon](image.png)
 
 [Click to check Devpost](https://devpost.com/software/bless-you-polar-bear)
 
